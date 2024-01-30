@@ -1,6 +1,8 @@
 # Customer Management System
 
 This is a simple Customer Management System built with React, Spring Boot, and PostgreSQL.
+<img width="1411" alt="Screenshot 2024-01-30 at 5 15 40 PM" src="https://github.com/shashankshet/Customer-Management-Service/assets/48438739/d87fa905-5b23-4ecf-8290-00abe147f838">
+
 
 ## Table of Contents
 
